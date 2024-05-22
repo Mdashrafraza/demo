@@ -1,1 +1,3 @@
-# demo
+# demo-repo
+
+this repo gits command
